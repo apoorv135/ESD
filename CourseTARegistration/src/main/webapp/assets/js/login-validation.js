@@ -1,6 +1,5 @@
 let login_form = document.getElementById('login-validation');
-document.getElementById("email").value = "murali@iiitb.ac.in";
-//murali@iiitb.ac.in rajat@iiitb.org
+document.getElementById("email").value = "rc@iiitb.ac.in";
 login_form.addEventListener('submit', async (e) => {
 
     e.preventDefault();
